@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todowithlocal/static/css/main.e040c190.css",
+    "main.js": "/Todowithlocal/static/js/main.8a5dd5fd.js",
+    "index.html": "/Todowithlocal/index.html",
+    "main.e040c190.css.map": "/Todowithlocal/static/css/main.e040c190.css.map",
+    "main.8a5dd5fd.js.map": "/Todowithlocal/static/js/main.8a5dd5fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e040c190.css",
+    "static/js/main.8a5dd5fd.js"
+  ]
+}
